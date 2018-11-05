@@ -8,12 +8,12 @@
         <router-link to="/">
           <v-btn flat>Home</v-btn>
         </router-link>
-        <router-link to="/About">
+        <!--<router-link to="/About">
           <v-btn flat>About</v-btn>      
         </router-link>
         <router-link to="/login">
           <v-btn flat>Login</v-btn>
-        </router-link>
+        </router-link>-->
       </div>
     </v-toolbar>
     <router-view/>
